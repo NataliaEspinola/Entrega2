@@ -8,5 +8,11 @@ namespace Bitmon
 {
     class Shawarma : bitmon
     {
+        string nombre;
+        string tipo;
+        int vida;
+        int estamina;
+        int ataque;
+        int defensa;
     }
 }
