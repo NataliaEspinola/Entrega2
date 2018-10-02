@@ -8,5 +8,11 @@ namespace Bitmon
 {
     class Kopi_Iuwak
     {
+        string nombre;
+        string tipo;
+        int vida;
+        int estamina;
+        int ataque;
+        int defensa;
     }
 }
